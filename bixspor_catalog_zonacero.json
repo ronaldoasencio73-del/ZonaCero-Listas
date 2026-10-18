@@ -4,57 +4,57 @@
   "lists": [
     {
       "name": "Naruto Completo (clásico + Shippuden + películas + 24/7)",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_Naruto.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_Naruto.m3u",
       "category": "Anime"
     },
     {
       "name": "Dragon Ball Completo (series por capítulos + películas)",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_dragonball_completo.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_dragonball_completo.m3u",
       "category": "Anime"
     },
     {
       "name": "Series TODAS (sin Retro, Doramas, CL/MX/PE/TR, Gore)",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_SERIES_TODAS.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_SERIES_TODAS.m3u",
       "category": "Series"
     },
     {
       "name": "Películas TODAS (sin Cine retro, Aventura, Conciertos, CL/AR/ES/MX/PE)",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_PELICULAS_TODAS.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_PELICULAS_TODAS.m3u",
       "category": "Películas"
     },
     {
       "name": "⭐️ Estrenos 2026",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_ESTRENOS_2026.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_ESTRENOS_2026.m3u",
       "category": "Películas"
     },
     {
       "name": "Marvel Completo (MCU + Spider-Man + X-Men + Venom)",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_marvel.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_marvel.m3u",
       "category": "Películas"
     },
     {
       "name": "Anime Series (sin Gore) + DragonBall",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_ANIME_SERIES.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_ANIME_SERIES.m3u",
       "category": "Anime"
     },
     {
       "name": "24/7 VIP",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_TV_24-7_VIP.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_TV_24-7_VIP.m3u",
       "category": "TV"
     },
     {
       "name": "Deportes VIP + Argentina + Colombia",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_DEPORTES_VIP_AR_CO.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_DEPORTES_VIP_AR_CO.m3u",
       "category": "Deportes"
     },
     {
       "name": "⭐️ Series Amazon",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_series_amazon.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_series_amazon.m3u",
       "category": "Series"
     },
     {
       "name": "⭐️ Live Colombia + México",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/principal/ZC_LIVE_CO_MX.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/ZonaCero-Listas/main/ZC_LIVE_CO_MX.m3u",
       "category": "TV"
     }
   ],
