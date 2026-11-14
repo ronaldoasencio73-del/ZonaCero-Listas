@@ -1,6 +1,6 @@
 {
   "version": "1.7",
   "versionName": "1.7",
-  "changelog": "• Mejoras en la estabilidad del reproductor VLC\n• Corrección de pantalla negra al volver a la app después de dejarla en segundo plano",
-  "apkUrl": "https://github.com/ronaldoasencio73-del/ZonaCero-Listas/releases/download/1.6/BixSpor.Pro_1.6.apk"
+  "changelog": "• Licencia por código de cliente (modo privado)\n• TV+ optimizado con Paging 3 (listas grandes sin lag)\n• Más estabilidad VLC y corrección de pantalla negra\n• Episodios anterior/siguiente + controles mejorados",
+  "apkUrl": "https://github.com/ronaldoasencio73-del/ZonaCero-Listas/releases/download/1.7/BixSpor.Pro_1.7.apk"
 }
